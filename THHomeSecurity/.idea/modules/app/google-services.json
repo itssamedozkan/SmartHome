@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "540194930869",
+    "firebase_url": "https://thhomesecurity-186ed.firebaseio.com",
+    "project_id": "thhomesecurity-186ed",
+    "storage_bucket": "thhomesecurity-186ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540194930869:android:1c8e69b5d5fdbeb312fefc",
+        "android_client_info": {
+          "package_name": "com.bitirme.thhomesecurity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540194930869-25qks62tresc8fdb2jd8fmhp7t31m4lr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitirme.thhomesecurity",
+            "certificate_hash": "90bcb80391c0b688fbe6046e60698c8896e57ee1"
+          }
+        },
+        {
+          "client_id": "540194930869-1n6ce315ukavnoj495rd26ggas3vj2l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy0jX46PcAxYWLEEXod2QGXNVgjKoCXUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540194930869-1n6ce315ukavnoj495rd26ggas3vj2l4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
